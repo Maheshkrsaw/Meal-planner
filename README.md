@@ -53,6 +53,3 @@ By following these steps, you can create a fully functional Meal Planner web app
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README further based on your specific project details and additional features you might have implemented!
