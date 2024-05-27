@@ -1,6 +1,3 @@
-Sure! Below is a sample README file for your GitHub project. This README includes a link to your Meal Planner project, a brief description, and an explanation of how you can create this project using an API.
-
----
 
 # Meal Planner
 
